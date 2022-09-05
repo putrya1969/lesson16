@@ -1,0 +1,7 @@
+C:\Users\D.Putrya\source\repos\Lesson16\StackApp\bin\Debug\StackApp.exe.config
+C:\Users\D.Putrya\source\repos\Lesson16\StackApp\bin\Debug\StackApp.exe
+C:\Users\D.Putrya\source\repos\Lesson16\StackApp\bin\Debug\StackApp.pdb
+C:\Users\D.Putrya\source\repos\Lesson16\StackApp\obj\Debug\StackApp.csprojAssemblyReference.cache
+C:\Users\D.Putrya\source\repos\Lesson16\StackApp\obj\Debug\StackApp.csproj.CoreCompileInputs.cache
+C:\Users\D.Putrya\source\repos\Lesson16\StackApp\obj\Debug\StackApp.exe
+C:\Users\D.Putrya\source\repos\Lesson16\StackApp\obj\Debug\StackApp.pdb
