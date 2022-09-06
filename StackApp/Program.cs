@@ -16,53 +16,11 @@ namespace StackApp
             stack.Push(3);
             stack.Push(7);
             stack.Push(1);
-            Console.WriteLine($"In stack {stack.Count} elements");
-            Console.WriteLine($"Top element is {stack.Peek()}");
+            foreach (var item in stack)
+                Console.WriteLine(item);
             stack.Clear();
+            Console.WriteLine(stack.Count); 
             Console.ReadKey();
-        }
-    }
-
-    class Stack<T>
-    {
-        StackItem<T> top;
-        public int Count { get; set; } = 0;
-
-        public void Push(T data)
-        {
-            var currentTop = top;
-            top = new StackItem<T>(data) { next = currentTop };
-            Count++;
-        }
-
-        public T Pop()
-        {
-            T data = top.data;
-            top = top.next;
-            Count--;
-            return data;
-        }
-
-        public void Clear()
-        {
-            while (Count != 0)
-                Pop(); 
-        }
-
-        public T Peek()
-        {
-            return top.data;
-        }
-    }
-
-    class StackItem<T>
-    {
-        public T data;
-        public StackItem<T> next;
-        public StackItem(T data)
-        {
-            this.data = data;
-            next = null;
         }
     }
 }

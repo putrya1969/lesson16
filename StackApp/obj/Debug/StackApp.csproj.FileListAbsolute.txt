@@ -5,3 +5,11 @@ C:\Users\D.Putrya\source\repos\Lesson16\StackApp\obj\Debug\StackApp.csprojAssemb
 C:\Users\D.Putrya\source\repos\Lesson16\StackApp\obj\Debug\StackApp.csproj.CoreCompileInputs.cache
 C:\Users\D.Putrya\source\repos\Lesson16\StackApp\obj\Debug\StackApp.exe
 C:\Users\D.Putrya\source\repos\Lesson16\StackApp\obj\Debug\StackApp.pdb
+D:\Beetroot\Lesson3\lesson16\StackApp\bin\Debug\StackApp.exe.config
+D:\Beetroot\Lesson3\lesson16\StackApp\bin\Debug\StackApp.exe
+D:\Beetroot\Lesson3\lesson16\StackApp\bin\Debug\StackApp.pdb
+D:\Beetroot\Lesson3\lesson16\StackApp\obj\Debug\StackApp.csproj.AssemblyReference.cache
+D:\Beetroot\Lesson3\lesson16\StackApp\obj\Debug\StackApp.csproj.SuggestedBindingRedirects.cache
+D:\Beetroot\Lesson3\lesson16\StackApp\obj\Debug\StackApp.csproj.CoreCompileInputs.cache
+D:\Beetroot\Lesson3\lesson16\StackApp\obj\Debug\StackApp.exe
+D:\Beetroot\Lesson3\lesson16\StackApp\obj\Debug\StackApp.pdb
